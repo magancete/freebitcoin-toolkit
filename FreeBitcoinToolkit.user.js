@@ -2,12 +2,12 @@
 // ==UserScript==
 // @name         FreeBitcoin Toolkit
 // @namespace    http://tampermonkey.net/
-// @version      14.0.0
+// @version      14.0.2
 // @description  FreeBitcoin Toolkit by Magán | You can send BTC donations to: 1J3847tNbqA5y3Q6G6avvCEV931TBp9VgY | This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 // @author       Magán
 // @icon         https://carlosmagan.com/img/icon/mstile-70x70.png
-// @updateURL    https://carlosmagan.com/FreeBitcoin/scripts/FreeBitcoinToolkit.user.js
-// @downloadURL  https://carlosmagan.com/FreeBitcoin/scripts/FreeBitcoinToolkit.user.js
+// @updateURL    https://github.com/magancete/freebitcoin-toolkit/raw/refs/heads/main/FreeBitcoinToolkit.user.js
+// @downloadURL  https://github.com/magancete/freebitcoin-toolkit/raw/refs/heads/main/FreeBitcoinToolkit.user.js
 // @match        https://freebitco.in/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
